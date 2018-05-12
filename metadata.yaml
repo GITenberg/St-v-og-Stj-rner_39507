@@ -1,0 +1,28 @@
+_repo: St-v-og-Stj-rner_39507
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39507-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hjortø, Knud
+    alias: Hjorto, Knud
+    birthdate: 1869
+    deathdate: 1931
+    gutenberg_agent_id: '40952'
+    url: http://www.gutenberg.org/2009/agents/40952
+    wikipedia: http://da.wikipedia.org/wiki/Knud_Hjort%C3%B8
+description: ''
+gutenberg_issued: '2012-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39507'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish fiction'
+- !lcc 'PT'
+title: Støv og Stjærner
+url: http://www.gutenberg.org/ebooks/39507
